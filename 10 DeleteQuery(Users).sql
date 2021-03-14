@@ -1,0 +1,1 @@
+Delete from tblUsers where UserId=101
